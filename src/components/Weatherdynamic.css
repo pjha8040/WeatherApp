@@ -74,7 +74,45 @@
   display: block;
   font-size: 16px;
 }
+
 .weather-data .col img {
   width: 26px;
   margin-top: 10px;
+}
+
+@media (max-width: 768px) {
+  .weather {
+    padding: 20px;
+  }
+
+  .weather-icon {
+    width: 100px;
+  }
+
+  .tempreture {
+    font-size: 60px;
+  }
+
+  .city-name {
+    font-size: 30px;
+  }
+
+  .weather-data {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .weather-data .col {
+    font-size: 18px;
+  }
+
+  .search-bar input {
+    height: 40px;
+    font-size: 16px;
+  }
+
+  .search-bar img {
+    width: 25px;
+    height: 25px;
+  }
 }
