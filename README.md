@@ -27,45 +27,33 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**
 
-    ```bash
-    git clone https://github.com/your-username/weather-app.git
-    ```
+   ```bash
+   git clone https://github.com/your-username/weather-app.git
+   ```
 
 2. **Navigate to the project directory**
 
-    ```bash
-    cd weather-app
-    ```
+   ```bash
+   cd weather-app
+   ```
 
 3. **Install dependencies**
 
-    If you are using npm:
+   If you are using npm:
 
-    ```bash
-    npm install
-    ```
-
-    Or if you are using Yarn:
-
-    ```bash
-    yarn install
-    ```
+   ```bash
+   npm install
+   ```
 
 4. **Run the application**
 
-    ```bash
-    npm start
-    ```
-
-    Or if you are using Yarn:
-
-    ```bash
-    yarn start
-    ```
+   ```bash
+   npm run dev
+   ```
 
 5. **Open your browser**
 
-    Go to `http://localhost:3000` to see the application in action.
+   Go to `http://localhost:3000` to see the application in action.
 
 ## Usage
 
