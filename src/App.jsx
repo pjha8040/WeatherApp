@@ -15,7 +15,7 @@ const App = () => {
 
   return (
     <div className="app">
-      <h1>Weather App</h1>
+      <h1>ClimaSense</h1>
       <Weatherdynamic />
       <h1>Weather Conditions in Major Cities:</h1>
       <div className="famousCities">
